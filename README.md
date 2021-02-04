@@ -17,6 +17,7 @@ Selenium
 urllib  
 requests  
 tkinter  
+Chrome Driver and Browser  
   
   
 # Developed by Arnav Mukhopadhyay  
